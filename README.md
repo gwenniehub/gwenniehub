@@ -2,7 +2,9 @@
 
 Welcome to my GitHub profile.
 
-**Data engineering · Cloud · Product thinking** I'm a senior at Gettysburg College studying Econometrics and Quantitative Economics & Data Science, graduating in May 2027. I started teaching myself SQL in my second year and have been exploring data ever since.
+**Data engineering · Cloud · Product thinking** 
+
+I'm a senior at Gettysburg College studying Econometrics and Quantitative Economics & Data Science, graduating in May 2027. I started teaching myself SQL in my second year and have been exploring data ever since.
 
 At Arch Insurance, I worked on Snowflake validation, AI-assisted workflows, and natural-language access to warehouse data. I'm pursuing data engineering and product management roles where I can combine technical depth with domain knowledge.
 
