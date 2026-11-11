@@ -22,7 +22,7 @@ At Arch Insurance, I worked on Snowflake validation, AI-assisted workflows, and 
 
 Combined experimentation and reporting: Instagram A/B tests increased engagement by 41%, supported by dashboards tracking 15+ KPIs.
 
-## Selected work
+## Highlight work
 
 **ELT pipeline — dbt Core, Snowflake, Airflow**  
 Built staging, intermediate, and mart models with version-controlled transformations and dependency-aware orchestration.
